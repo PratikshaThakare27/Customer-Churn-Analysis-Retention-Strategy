@@ -328,7 +328,7 @@ In the future, this project can be extended by:
 Customer-Churn-Analysis-Retention-Strategy/
 │
 ├── README.md
-├── Telecom_Customer_Churn.pbit
+├── DAProject.pbix
 ├── pythonlibraries.ipynb
 ├── dashboard_1_overview.png
 ├── dashboard_2_churn_drivers.png
